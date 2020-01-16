@@ -1,7 +1,7 @@
 # BostonHousing-Prediction
 This project predicts housing data in boston using one-dim lasso, random forest and xgboost anc compare the accuracies.
 
-##Preprocess:
+## Preprocess:
 1. Through histogram th e data is actually skewed , in o rde r to make the target normal dis tributed
 the transf ormation of taking log form should be made.
 
